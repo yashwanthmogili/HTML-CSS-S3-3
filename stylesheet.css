@@ -1,0 +1,26 @@
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.abc{
+    width: 40%;
+    margin: auto;
+}
+img{
+    width:40%;
+    margin: auto;
+}
+.bca{
+    width: 30%;
+    margin: auto;
+}
+.ab{
+    margin-top: 20px;
+}
+.bc{
+    margin-top: 20px;
+}
